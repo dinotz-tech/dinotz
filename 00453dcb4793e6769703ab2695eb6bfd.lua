@@ -31,7 +31,7 @@ elseif identNum ~= nil and ggApis["sh#"] ~= nil and ggApis["NoTz-Revi"] ~= nil a
 		_ENV["tostring"](_ENV["load"]) == "function: ׬",
 		_ENV["tostring"](ggApis["fl@"]) == "function () end, -- gg.dinoTz7eZPeCF() -> string",
 		_ENV["tostring"](ggApis["i^"]) == "function () end, -- gg.dinoTz7hQKYeQpK() -> bool",
-		_ENV["string"]["sub"](ggApis["fl@"](), 1, 1) == "/"
+		_ENV["string"]["sub"](ggApis["fl@"](), 1, 1) ~= "/"
 	} do
 		if not pro then
 			if (ggApis["i^"] and ggApis["i^"]()) then
