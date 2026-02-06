@@ -8,19 +8,6 @@ if (ggApis == nil or _ENV["type"] == nil or _ENV["type"](ggApis) ~= "table" or g
 	return ggApis["alert"]("Fuck you Loggers!")
 elseif identNum ~= nil and ggApis["sh#"] ~= nil and ggApis["NoTz-Revi"] ~= nil and _ENV["_VERSION"] == "LuaRevi - Ꭰιñ𝖔Ι͠ɀ" then
 	identNum = identNum(), _ENV["math"]["randomseed"](_ENV["os"]["time"]() * 1000 + _ENV["math"]["floor"](_ENV["os"]["clock"]() * 100000))
-	gg.fx(tostring({
-		_ENV["type"](ggApis["NoTz-Revi"]) == "function",
-		_ENV["type"](ggApis["i^"]) == "function",
-		_ENV["type"](string["sub"]) == "function",
-		_ENV["type"](_ENV["load"]) == "function",
-		_ENV["tostring"](string["sub"]) == "function: ࠝ",
-		_ENV["tostring"](_ENV["tostring"]) == "function: ׿",
-		_ENV["tostring"](_ENV["load"]) == "function: ׬",
-		_ENV["tostring"](ggApis["fl@"]) == "function () end, -- gg.dinoTz7eZPeCF() -> string",
-		_ENV["tostring"](ggApis["i^"]) == "function () end, -- gg.dinoTz7hQKYeQpK() -> bool",
-		_ENV["string"]["sub"](ggApis["fl@"](), 1, 1) == "/"
-	}))
-	
 	for ky, pro in _ENV["next"], {
 		_ENV["type"](ggApis["NoTz-Revi"]) == "function",
 		_ENV["type"](ggApis["i^"]) == "function",
