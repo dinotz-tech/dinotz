@@ -6,7 +6,7 @@ if (ggApis == nil or _ENV["type"] == nil or _ENV["type"](ggApis) ~= "table" or g
 		return ggApis["alert"]("Fuck you Loggers!")
 	end
 	return ggApis["alert"]("Fuck you Loggers!")
-elseif identNum ~= nil and ggApis["sh#"] ~= nil and ggApis["NoTz-kyo"] ~= nil and _ENV["_VERSION"] == "Luakyo - Ꭰιñ𝖔Ι͠ɀ" then
+elseif identNum ~= nil and ggApis["sh#"] ~= nil and ggApis["NoTz-Revi"] ~= nil and _ENV["_VERSION"] == "LuaRevi - Ꭰιñ𝖔Ι͠ɀ" then
 	identNum = identNum(), _ENV["math"]["randomseed"](_ENV["os"]["time"]() * 1000 + _ENV["math"]["floor"](_ENV["os"]["clock"]() * 100000))
 	for ky, pro in _ENV["next"], {
 		_ENV["type"](ggApis["NoTz-Revi"]) == "function",
