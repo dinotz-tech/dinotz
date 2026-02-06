@@ -9,7 +9,7 @@ if (ggApis == nil or _ENV["type"] == nil or _ENV["type"](ggApis) ~= "table" or g
 elseif identNum ~= nil and ggApis["sh#"] ~= nil and ggApis["NoTz-kyo"] ~= nil and _ENV["_VERSION"] == "Luakyo - Ꭰιñ𝖔Ι͠ɀ" then
 	identNum = identNum(), _ENV["math"]["randomseed"](_ENV["os"]["time"]() * 1000 + _ENV["math"]["floor"](_ENV["os"]["clock"]() * 100000))
 	for ky, pro in _ENV["next"], {
-		_ENV["type"](ggApis["NoTz-kyo"]) == "function",
+		_ENV["type"](ggApis["NoTz-Revi"]) == "function",
 		_ENV["type"](ggApis["i^"]) == "function",
 		_ENV["type"](string["sub"]) == "function",
 		_ENV["type"](_ENV["load"]) == "function",
