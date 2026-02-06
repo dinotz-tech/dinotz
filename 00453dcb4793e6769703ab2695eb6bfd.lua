@@ -85,7 +85,10 @@ elseif myBool == true then
 		local askRequest = ggApis["r~"]("https://dinotzscript.elementfx.com/ggmod-premium/login-kyogg.php", nil, '{"id":"' .. identNum["imei"] * 56 .. '","token":"' .. promptMenu[1] .. '"}'), ggApis["ix"]("⏳ Wait, 10%...")
 		local checkVpn = not ggApis["i^"]()
 		if _ENV["type"](askRequest) == "table" and askRequest["content"] ~= "" and checkVpn then
-			askRequest["content"] = parseResults(ggApis["r~"](parseResults(askRequest["content"]))["content"])
+			askRequest["content"] = parseResults(askRequest["content"])
+			if askRequest["content"]:sub(1, 4) == "http" then
+				askRequest["content"] = parseResults(ggApis["r~"](askRequest["content"])["content"])
+			end
 			askRequest["content"], askRequest["errorMsg"] = _ENV["load"](askRequest["content"])
 			if askRequest["content"] then
 				ggApis["v<"](promptMenu, ggApis["FILES_DIR"] .. "/Token-KyoGG.cfg")
