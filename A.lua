@@ -1,1 +1,194 @@
-50e53521869e093f73a22947a2bc47e724132ffc44dde0cd1f0efc3d5ad51b90578884dd45052cdcb724dddc1830cdf9e023e0dfbdbcfa3d7af349ea222889ec0721a0982ff6d3a646dd45052cb085cce0d0fafdc6417dbc0ac91ccc87c25cef392b95079acbae4bbeace84d27c1e8d7170295c904e43b2c3aed14f891770e2ad1be4ee75209e2ed44ddfd8e48291202a7e0d4cd3fcc6ec90418392cb3e2d5960b4999fc2959e9a0f6abc404cced46e237e23aed14f899990144df0f3590481ce2ed44ddfd8e48291202a7e0d4d561bf88d755ffe20abd14f29bf647cef5e243e0bdb58e124bc4ac53e8f22781bf1241a58de246f4be378e1fe1e0fe8d0ce0dd4ce00d4979de1de155a081cc0401e0f98be0e6d7100b7800284b2e8a81d70a02bff325e63b3375a00b36548fe035e400fad549e530f997fbe2d738e2030a618e28d65fec2277eb03050aa41b9ad71304b5e7e25535f4e8e31804b5b44bdd133083f1fdfa778a1433c9f029c023eb05b281c0ee9cfae2d523a6d226dd63e247bb4708291d7deed9dc0854c7f5244529e49a97de59caf558dbfae28ce3164da4a0e00598ca089018c6eebe46d7e29c08e2de04669cd6a21ca72277eb162530c332e68e0b4999fc29591ba2d9da0954ccae419ef4068fe10df8aba135f4c20b41d5471633b146c9ca773f2e0aec41e019e26ff0868e490b012cb733d390054ebdfe34081da89ab41945c3ac5de547e066ed093f97a433f598c5e4d34e1725f98ac029d23f2e1a30addbd4ec379e86d74ec4212ab2e0dfd5e552c1ff1b0833e89b900102d6c904e43b2c3adf103c52992715e6054dc904f22fe49ecd12d35029c83f58ecf18e68e7848e431224dcad05c6c4ff04b7e2053813c9c7bcc63f78c92196f40c8fdff43da89be001967d680eb05d8341143d5602a859738201eed68e6ee67ddcecad2920b32eecbc194f78c9e04f24e5e6e2f257c5b40da2f21f5fccf833549f2148debe37c9041621fe880f2de13f250a04959613b348d473905117e219a9e2ecd711477ae9e80fe0aa989fd41288ac0f96310568d4fdfa9f93343c98f9359048102fff96c21d963905f438939023e11cdb739045102f1fb9e2d596cd0282acf116f0b0a89ecd0b62954ae544e085f7cef8a2a42ff4df0afacd27f216eb460e25e64ee2030e58e9be7703dd5dbc38ffe230c730dd90010abff3015629f3d390f251ac0611c8373683a0ff01526ffdf498024fdc451829ff92c2ec78e3c9052786c40f906ef788d30401e823b501e8d7173d7af51e081da998abe1027af259e4353483ed10fa5e3cc9ddd5e128c43dc634099405e2cb02331a54a1dc1bc91cf18dd00401e9dc8bfd98900a57c6ef344f2fee9a9aaeeb61eb29c4281b3cf21b4897541dfcd5e128c43dc62cff8504e2cb03e0e31f58901ae368e18cd75112e2e858c981cde930aee7e25a2ff3ece00d50bfae419e45348ce7103f8d543349d8be379702e1fdb0460635dc3d340f51a6a8d44e9a1b3a9aecadc91b930ecec9c656c7ff345829eedf90010ab7d132cc2de28eed154ca49b2e3b98f9038e1fe1e0b28a152ed14e291550728e8b2d1caa2277eb03050aa41b9ae21355ccfe295427a2d5960327a6e23f983e2f7be2c4355b52fd1196be40e3500734f9930efa8eb16cc80e4277bdcd3fcc6ec904182f2fc232e1dc0b04b5b4274d01f0e1e1ff04bef824982fe93abbdff854983542d91043dd50c4e8b944052ed206e0d30f58d51b9c5ee786dd361ef721a810ddb1ea0a81aced24e0f3ece00d50bfae1080dbc979c3f02e8d543443e9104cd7500be2ed4c0727af4a29193d5ad7129057a738ab1fc4e222c32edbe20d51c6ace80fe0e5e6d2d00285b904dd39ee7ee7104786acf73cc7e733d333140bb84dc0edacfa221551a490e078038777b330fa1bdec134ead712497ae91b0833f5da90010abff325e63b3375a0084472541dfc9fc8fa9f0ec4f1b9441efd8efcefc8ec41ebd4d2698821774b0ae02abd3498de16517800284b2e8a8177ad4bbeac0cdd39018ae71533549b1ef6d3bc3bdc46c427f7651029e135e20f405acbdc97239e8cd64712cac557c981cde930aee7e24f2fa2d5c9c651cd0054eb46e277a6093f73a22947d1be1fc6360313e473f201b51fe20302669cd49029bf86d2541329207d0dddd20d4387ba215424f2e7d70841cdf54898fbfa91f00b4c975ae246db104fe050c4f1b252cee2a7fceed4046a90e29c1cb23a9c10c6f3de77ca8177adebcaf1345b32ee98d50b23c8f557d1f42692a0ff0054783537e1bc53dd57c40cff8b0725e04de1c80b4277bd775fea8bd34b0ae02abd3498cde930aee7e25a2feeeddb0647caae419e3b247fec1626a79f1bf6df093fd70401e9b0980825dce4c9afeb588ed48e63e438dc5118e01b930ecec9c64ec7ed244c29ecdd90010abff325e63b3375a0e73086911328c5ee1bb527c61db052cee09009041545addb19dc6ef1479c4b08e2e56e34e0d312ec6195c906e0a098770327a6e23f983b2f3cdbfdfaa1a73444eb10fccb0a0b27d1940933c9fc05fe3697c108bd4cbf5fb30401e0ea7ce09a9de851bb012d4b2ef4eb9dd24bbcae0db0493283f2070054a42548eb0e488e04c4eebe440d21e242ee1843a6d223db22af448e16dcf9f185f0a197aeeb6195e006e0a0dddc08ec6195ed7f3b247fec1626a79f1bf6df093fd70401e0cd44092f9c432e1657ac961bd53bee81e13dc60514a21fcbc2f33499d305081da0a69cc40487d053d9472d7fec164b6160293898c514e0470524b846ca219003caafeb41d322d2048721774f1d022bbd2c98abc448b9f8334bca8981771647cc0156e4f22781bf1241a58de246f4be3796040c34049413fa9d09240f50a7e22ee15df081de56d22528b32ddddc1848d0ba23552dafdfd51151bcb954e8372d83f30f0793952339e90f08de4a14e2bc440e29da06e0cd5d5ad7189034a03f8e10d2e025b225e6e2f257c5e7e24f2de5e190010282ac19acf2ee489ec9fa5e5433f6b0be0f905fcbe9bc440727af4a29193d5ad42c9057a63ab457072bdcc72fed8ef051bff3255833a19a97aeeb61f150e93729809e0f5174a12f40961a178e48052c0389c021dc3ee01654a78ef1ab1af28ae347c43424b32e8277adebc50502552fec98abc456ca014980dbc97fec06e23b972e38800148d2ecae2cff87012c8e43240b50acbc29db1abb38d746092e309c35e596cdecc1f2e0542ff498cde930aee706ea412e8feb043da4541dfcdf003fdc56f235fd7fc229db3f29c83f618e28d65fec22774b0ae02abd3498cde930aee7e2522fe1dcd40d4ebdae419e39275bee0b4b8d54052ccafb2dc231f601d769c21d8e08eec60467b223d16feb7ddc5617efeab7249a97c456c0f12ef0c989d7b3f238b3ae4de5f41d75a0114da6a2354898f902d549e530f997fbe2b3321405358cbd06af41c33acb02d2eedc70efbcdd0757c5f12e5a33afa6d7080481c65be83b347fa6c44a97a63546e4bcfc8e10d2e0fd8514289c4c211446a7dbdc9f269e4ca61bd9f7ec77e982770950bc96c94f24e5e6e2f257c5e706df3f2583a0fff86f522943a40548de5718e8f78be130d74d1bc82790c213c14ecd6aaf29e9e2196eeea68ec6119cfb235b2de5e6e2171186f54898fbfa8ce3033c5a54ea3598c5e4d35008ca9a8d06e0db53021551a48ef1ab1af28ae347c4212ab2e0da8ee11f78aea174604e313155d2f52278446b8dba4722fa52932e3896fb1fbc38ffe2f7890f34c03c2c0b04958ef1ab1ae479da5509e030b625e678ad4ec7ef2152e0e6ddcf1857caf104b3f23b3ccbeaf87b952f4296c4fac02bf70bb04dc2ec8efc0dee0286ddd4b75ded86900ec4e200c02fe6d3c438c1f13708eca09ab31c4bccae6180db2c89e10344529e2936e8fd4ce745d0e0f3970821e04ae0e3029fd5f5de63f17390540be3deabe89ada0d44bbff284732f0a6e113048196ede241237beac2449b943235e815469a02102ff78d03e0abfa270d23a8d727c91cf07f910401e8deba29dada1349c1efee592fa2a178ad4ec7ef45e2f2347bf0093da67b2e3ae5bc178e490b01008d131b904e27e6049596dd7803872277481332dcb7ec98d7c44bc6ac304729f2eb96104bbafe45e84b23439e0647529b26f4dfca4de2431825b061dde0903221c802acd619dc1ae18bd6431630dc8be0e19c1756b9fe340625eedc8e0950bc96eddc41323ae7cef89b522942960c3bd75417e8fc8d0232cf4c39120b58d2238e63e438d71017341dc22598abe1027ae42108e0f4e0d31202c4fb4bdf35e0579e0b06a5a62146eabc3fdc46c425fe88aac978e32c154599dad4d46fec7be24b132edcc021e6d2134fbdf0135a32e9e6d5170a8196ed7f3e2f7ddf0ef89ba50140e6043bd04718e0cd441be2affcecc6047a90e08e1cc13a9a02c604de7ae09ab3c60e78ae0608eca09ab5c60e78ae2c98fee03cc7c40452540af6a2bcfcb904d0e0b270c2ec8efc0dc80e58900290269e3abd04d0e0de9ee2a48ec6337ab8e00812a2a48ec6357ab8049826e2469ec42d545ee0f6ccbe068e04fbe2bc44c2189006e0c83b5a9ad49054a09578ebad2c2bb121e48e0d55aaf1335b2cf4eb8ee102d309ee7fdb2689f0c241526fe033bbea30c904182ffe990d22d34ce2030a5a9fd697269e85cf560c1bdec021e6d2134f7ae9e84505cecec9c656c7fa59e334258ca0ff005463e2fda2bc39b330fa1bb2980f2ee347220b545acbdc902cb33a970bc4242b58c981770d55aaf1335b2cf4ebc90d3f78c904df450186ee0a399497342fe3fd4ed63dc632f192042fdbfc1dce417dbc0ac91cf287dc57112221c0e2d596c6137ab5ec06e3e9ebaf1052c0ed46db46e97788abe13b9b26f4e3fd4ed63dc632f192042fdbfc1dce417dbc0ac91cf287dc57112221c0e2d596c6127ab5ec061fc5c6c4ff04ccfb52eb3f227ff0c4355a54f2f69fc5faab1fc41fd572f61b904e2f1457a5d019e01cdb409013c6e9dcc228dddcaeeb6195c94f33d2dde1194eccff3fdf2fe0579e154ca49b2e3bd1be46dd590932b281c829e12c251957a4e227c963db4178ebadc921bc248277ad47c6f0caefc9f2dde21954c6ac58d7342c7fd9c43ba1a02335eabe37964b1712f597152ce24de9b0eb9ddc187803872178eb102f1faf2c98d41950bb0029552ea0dcdd1944c4f127de372385a6d006605bcadd7f0849d14310e0f4851421b748301b5658abd4901c882177481332dcb7e0b58e0327a6e21b0834efe6e31144bdfe06d3fae24ba0cb0452910522ccf7fce2511235fd8605329037e8c8166890dd8e5eed2277ebad292ba9e2e7de09507ae9e85821eedcdd1147bcdf58e83b2e81f1ca015e52e24698c5e477ebad29f64409e0ab17e0052786c40f906eed86e34f06252e701da090d6127ab5e05a28e5e678adeb619548d7462163ec124da652fdf4df0b3590511425fe46fde8db3f2d1554b1b41dda5fd93acf52140c2bb121ecd713507ae9ec06e2f29a97de54bded489ef4ea7ba0cbe23b3bc939e400e477eb092ef42ea9c9da4923074e58e019e16fea8ce136062cdc8be0f3910843cced095430f5ecebaeeb61f853d9332c3af10b5297743948dbbc178e5d1121048cfbe2d4462f15545acbdc915edf8ccf2b123031c2e9989dc4419dda1641e2f4e7dc194fbaf156982fe83cafd20a6660f0f69f19e477eb0d26b097093ad31c391a4793cdf9bc50d93ae251123529b025ea90010a7abde20f1da0b68e0327a6e23f98462f88f30f3a97a4e2319ebe0b9c12c6e9b0980825dce4c9afebabd72ed33cf78cd33d03050aa41b9ae21350cdf9224b32a2d596c6147ab541960fe087df16408d542640e50b4c903fcc33f99e0502e74e2501417dbc0ac91cf287dc57112221c0e2d596c6137ab51d0fe0af98cde930aee706ea412e8feb043da4541dfc98cd0aa016d2f0b24daac977e3320b55adda28e14ee084c941e90e12a9e2ecdd1257c5ee2558e2dda090d60481e904b3f23383f8071aaba6252fd5e128c43dc634ff92152dd03f32c83f6090e59023db2277ebad29226e33e1e80924d10025411fc5c6c4ff04ccfb52eb3f227ff0c4355a54f2f69ff9faac020305de7afbe2e2492e1b4f9ad3269057a63a9f10d4e2e56e34e0d312ec6195c9ef32e5ebe31056cbe046e22d1f5fccf83354a62f42eb093cd354c61db846d3e29737e0e302abd72ed33cf78cd33d03050aa41b9ae21350cdf9224b32a2d596c6147ab54180dbc923e3103c3c3bc939e400e477eb0b27be8a18e8e249331a54a1dc1b966ce38be34e183310b02ca197aeeb61f5260632e5ebe31056cbe046e22d1f5fccf83354a62f42eb093cd354c61db846d1e29737e0e31f5890eda32cb64ba114c6e01dbc2498e00955cdf8345914e2e4c90327a6e23f98462f88f30f3a97a4e2319ebe0c900b01e0cd61c0e2a70df0db10689fe5a52bb64fa304c4212ab2e0ead31757c400333a22ecd3cde930aee706ea412e8feb043da4541dfc98cffc973fc4fdcd44c2f99c0af8dc1b69a2e4a42cb33a8e431224dcc129f2d3e65bccf11b4505cecec9c656c7fa59e334258ca0ff005463e2fdd3bc17ab02c6f9c354d5ee9e0bf1dd1370a5e9901adf86d202172936b302f1e2093db7d10e3c1ba2ecdd1257c5ee49e8f41d42a0d4fa5b8fe011b3bcfca710d4f8c65dd1f49e10f2db0458e21cd368882177eb162530c332e68ec63bbdffec0609a7e58efc2ea6f157df33e13c88abe197a024de7fa54cd3561932fe44c218ba2825194b998e04c049d25db136c5e2c65725e6d2aeeb6295294ce0e4e7e3064ebdcf4cdb352b42a7c2156f52e22ddb0f068e2bcb2db07cec0ed34d2907035a8e28d65fec2277eb0b27fdbe29ebc9c648d0ae1d0ee2c7eddc054db9fa04da372e81df10f8749b2a35e1bcfb8f3e1213f3960930e2fa240f44adcf288e69ea7dd602ef397f0607e5b5c60b6295c94f26a0dbe10c43cafc04b30fe088e70ef8a1a4e040e50343d102e1fdb092092c8e4e280b5058e019e26ff0868e490b012cb733d3900a5a7ae9e8080ff0dddcc42fa4ce2696f3e13ca7c23da096cadd7f05408e501334b0980132d53f34ef509eddd4dd6c9e8ccf540b2530972ededdff04cef1325929efe6bc054fbdae419650fd3aa0d4066360f40ba4cd0ba21bd5e2b0980825dce4c9afeb9fd5f5de63f17390540be1deabe8dfd5e552c1ff1b0812c5bfb7f330b7cf43b71e0c69c1c4355b3cc9dd7f0341af520d33eb4612239bfc1dce0b4277bd7761e559de4b171bdebcff9acbcc0492f4f016f0b0a89ed4128bbe16bb05f14cc3d50c6569f219a9cd0d9f15d8f3c957d1f09e0af0d612689ee4b12aae489e12d4e2e86e27dfaf144bcbe7e23a19d0bdcde63bacd106d3fbca2387ab44a1952140960e3fe15710340344dde0d54101164babc9d6e05da13acb0acdcac557c9e1d4c454bdff355234f398abe10288ac58de372e2487abe13b992715e6054dc9040d38b281c8e250774cc637abd3d4bb46c05a8e3809322fb72fe6a8c41486bdee1af7aea99fd81b89ae0d80dbc92387093f73a22947d1be4cd10fc61db84daac977e3c91847ace326dc1ae479da5509cac557c9dddc08ec61952554248a8177aeeb61f853d9332c3ae4174695a62943e4bc43d15112e8b92ea9c9774127e752a1e10f9066a943903fcc3b37af24dce00955cbacfd062cefdfd7070283ac14ee0bf4469e0844939933f4b3bc41d5231429037fc214c72a0505338fbd06b21cdb448e58052c31b3e0b58ec64a8abcf016f8b0bca0e71288bf19bc16f63caac23ea497254edbbc178e561635f5a11de978e3c9af499faf24d76dd93ada0fc61de477ca8177adec6195c94d27c1e8d7173d7afe47a3f41d42a7ace13b3b273bb70c43e13dc632f745c21d964127e752a1e10f904cc35fb731f21fffad01c4baf3257ae9e9f0c98981d50b23c8f557d1f4327da9c4355aad3b35da004cd35517e0cd440333d63b321602638ee4e63cb749b213d8ecdcb42cd9d5170295acf3183dfda178adeb61f34bb742298dd9c44872541dfca6c5e477ebadca992da90be74907132958abd4d561bf88d755ffe22eb1009acbcc49bfcd304f33db9ae007057ae90c9ffbca2387ab3ea1a4e03fa2bc508e4b12e0f9940129e04de8f15ba7b521b5239e7cddecadc9c55727dfaf144bcbe7e252ebab9acbcc5dd3ed48da44258df1c21552a8ee35da004cd35517ecb08a0c21d54de0e3026ba0e08e70df84e347c4fddcba2fdfd7070283acf05ef9b4a48e0a54bdf15edbf2fd3af2144d97af3dfd80a5e377eb0b27d1940933c9fc2cd3049596dd78038721d35008cac557c9dfd5e552c1ff1b0832e3a590010a8196ed7f372e7e88abe13c3bc940e5ff3bda020a35fe871429dd48e01451a1d123dc22c991dd291107e558c981770b4999fc29591ba2ead1d104b5b40d80dbc923e50919a29b332f980e418f0401e8f78be130d74d1bc8347db5fdbd48dd59bc31f219099d15cb90010b6295c9ef27e7b9de0d55b3ae52b5f41d42a0d60d6362f804abcf12a616ddf2c25bd5f7a00de2d2029fd5f5de63f1739036fd1001ad11cfbdf6267ae9e9f0c98981d50b23c8f557d1f42e98a0ff005466f505a6d40aa315dcf8c45dd2f2a50ff7d8155a9ad4d561bf88d755ffe210a710bdcdf539a7de04081da98277adeba30553bd3f073abbc23f9973303de9f7fce045e4e2ed4c0727af4a29193d5ae017911cdb40970baec9c55726e7e0c44d84ac360629ee98d71443c1fe579e1d3989c50f1f5b52244380a5e377eb1aeef1880432d34d33c61f58e4e2cf5ee28ad35517e0e96ef0f0b1aeeb6195c95ceee6e4cf0b5578c904dd39018ae7153354861924bbfb2bc531f604b281aac977e32514464277bd7745f787b54febe0f96e27dfaf144bcbe7e25c00a2d596ef5bc7d351bdfbca2387ab3ea1a4e03fa2bc508e4b12e0f9940129e04de8f15ba7b521b5239e7cddecadc9c55729de8e1a10ceed2c5b25a0b5abc41888bd16af07f44cafd60c52a62839e4a6e377ebadc9f78be130d74d1bc84e6399d6cb22f993cf46083221c13398abc45886ed244a32e5ebe1c40d78bc5caafee080ea033fa552fdf4aac8fae4431035f544dde0a706e00c549dd32ed31abb38e254192539cbe98277adeb6195274d01f0e1e1ff04c4b906d3fae92487abe13b3b2246dbfd4578ebadc999890e2478e3c9af47a6d2be7703877fd52314292fa9e2ead1d104b5b4e9f0c989dddc08ec6195ee7fdb2c89e1034452983542d91043dd50c42402930e259603caafeb41d51baf6ae78bc9041623e9701da097aeeb6195274d01f0e1e1ff04caf305982fe881e5e3489ba51bf6c8e121b731f21fd172ef0ec7270ffb355acbdd78038721d549e53025c11b9adce304b5b4e217f0b8b1a6d41888bc1c98fee081e5e3489ba51bf6caf52ab341e817df76e4e2cb03caafeb41d51baf6ae78bc9041623fc701da0e21350cdf9224b32a89a9fd4127ab50d80dbc923e50919a29b332f98013b8f0401e8b255d1f0a00af4dc146ba7d69a1ae57faf520d33177014d1bee9419ce30f3804a2d597aeeb61954bdd133083f1fdfaa495edf6d3c40378ebadc9f78be130d74d1bc850779011961cab499e17d7f8ef87f8ada0c60e78f3272730e9ebc9c636b1dc29d5161769d0e6fa8f5bcadd7fa541d5231429037fc232d11ae2030aacdd22e367e07de00ac6f1ec7ee2a197aeeb6195274d01f0e1e1ff04bded05982fe83cabd3086663f804add1109e04d0e0f78be130d74d1bc83691bef9cd3ed567c026c61de558c981770b4999fc29591ba2ead1d104b5b40d80dbc923e50919a29b332f980a19903fcce2c154d8f9a50cf2d7146a90e08e61e559de4b171bdea219c8b30326afdb122ae2dda178adeb61f34bb742298dd9c44a9572e2319e1049dc571122f596c8e29f0af0c80b6178bd7703e57faf520d33177025d98fc63f80aef117f0b1b0a2d41889bd06a2f22781bf1241a58de228cfec1fcd26fb0fe268c21d97e4c9afeb9fd5f5de63f173905407eddeabe8a178adeb61f3272730e9ebc9c65097ae419ef4ed4baed70f6869f70aaaccfc9a020b27d1940933c9fc14ff327dcdf8c549d05c903fcdcac557c9dfd5e552c1ff1b0832e3b890010accfb52eb3f227ff0cafa6362f0f69fc5e477ebad27f7651029e135e20b43599011961cab499f12d4f6ef85f4a8a7c60e78f3272730e9ebc9c636b1dc29d5161769d0e6fa8f5bcadd7fa541d5231429037fc232d107e2030a6178bd7703e57faf520d3317702eb790010a7ab9f116f5b7afa4d5178ac206a2f22781bf1241a58de228cfec1fcd26fb0fe268c21d97e4c9afeb9fd5f5de63f17390540700deabe8ecdd1257c5ee2558e8a2a99ed40481b5ee7fdbc981e5e3489ba51bf6dbfdfb903fcce2bd55d1f09e0df1d9126ba5d69a1ae57faf520d33177014d1bee9419ce30f3804a2d597aeeb61954bdd133083f1fdfaa495edf6d3c40378ebad25fe88aac977e4c9af4ea7d115da1ae48ddc4518292bbce0e5cf0d50b7ff235829f0ec96cdec6195ede241237beac24597a035f4b3bc41d5231429037fc2239ffc1dce489dcf28e36ce3448e12d0e0dea123ead7145678ee39060bf93b26eb4f9fac6296120b93ede9457954e9de7fa5e3d748c42df59215e0ab17e0144ba48e28d65fec38e04718352ebce0dddc08ec6195c94f26a0e5d3125778c9219603e08ee60746529b2343e4c4038e4712249a2da9c9d740e01347a6e3d4ab379e4a8e560c252a6e2ee7d70751c6b4e90625eedc78adeb61f54a963f2588f3c2156f52f3f4ea043fdc020832ff9205e897fa2514464277bd7763e438db471235dc8bfd98a2c456c0f12e062ff3a6d31c4bccb40d96372e7e88abe197a024de7fa5e477eb1b28f99005e0e24c350b029cddbe77038781d4020b27fdbe29ebc9c655cecbe243e8f4eae3090b78004cdb40ca2387abe199990144df0f3590551ae1b281c826cf46330b0b4277bd7703eb79d75003331fc029e8e2cc0b6295c9ef25eedc78adebbdfa4880db2586f107e23b3b273bb70c43e13dc6320e46fde89042341a52aba8e39d5ee786dd561e331fc029e8e2d247c4f12d4b2ef4dee6d245c7f913dd392d89e2cf48a4972d3deb0909cf4507250397ce30d64ae2d202a6d7209a1aa593904b08e2f670e7989cd202c1f0255434ceeddbff04c1f949dff41d3aa8c20d6852ee0296c3fc9a02c633b25ec2f69057e7cfec41d322d204e384e147aec923b501e8d7173d7afe3e081da89ad61856c8ff1ea5012483ec114caca52346df0c4e9c471025fd890e34d452ee0951a59d1bd567ed7c9b52162529b735e59d0545bbf13359eef0e0dec60e78fa4de2fee041f9c4419654faf69dbc089c020d24f592140ee3471bc84ba5d31d90579e428e17dae0ea7ce09f90d004cbaefa08f7a2f595cdec61fe49ea4732889e093f73a22947d1be40e60401e8b26a1523d9fa39155758ba23d561e38ae103c6e9c6b32edc
+local ggApis, myBool = _ENV["gg"]
+local identNum = _ENV["getPhoneInfo"]
+local a, b = _ENV["NoTzKyoGG"]
+if (ggApis == nil or _ENV["type"] == nil or _ENV["type"](ggApis) ~= "table" or ggApis["fx"] == nil or ggApis["NoTz-Revi"] == nil or ggApis["r~"] == nil or ggApis["i^"] == nil) then
+	if ggApis["i^"] and ggApis["i^"]() then
+		_ENV["io"]["output"](ggApis["EXT_STORAGE"] .. "/Android/Media/.android_id"):write("return 1".."6".."7".."8".."4")
+		return ggApis["alert"]("Fuck you Loggers!")
+	end
+	return ggApis["alert"]("Fuck you Loggers!")
+elseif identNum ~= nil and ggApis["sh#"] ~= nil and ggApis["NoTz-Revi"] ~= nil and _ENV["_VERSION"] == "LuaRevi - Ꭰιñ𝖔Ι͠ɀ" then
+	identNum = identNum(), _ENV["math"]["randomseed"](_ENV["os"]["time"]() * 1000 + _ENV["math"]["floor"](_ENV["os"]["clock"]() * 100000))
+	for ky, pro in _ENV["next"], {
+		_ENV["type"](ggApis["NoTz-Revi"]) == "function",
+		_ENV["type"](ggApis["i^"]) == "function",
+		_ENV["type"](string["sub"]) == "function",
+		_ENV["type"](_ENV["load"]) == "function",
+		_ENV["tostring"](string["sub"]) == "function: ࠝ",
+		_ENV["tostring"](_ENV["tostring"]) == "function: ׿",
+		_ENV["tostring"](_ENV["load"]) == "function: ׬",
+		_ENV["tostring"](ggApis["fl@"]) == "function () end, -- gg.dinoTz7eZPeCF() -> string",
+		_ENV["tostring"](ggApis["i^"]) == "function () end, -- gg.dinoTz7hQKYeQpK() -> bool",
+		_ENV["string"]["sub"](ggApis["fl@"](), 1, 1) ~= "/"
+	} do
+		if not pro then
+			if (ggApis["i^"] and ggApis["i^"]()) then
+				_ENV["io"]["output"](ggApis["EXT_STORAGE"] .. "/Android/Media/.android_uid"):write("return 1".."9".."2".."4".."3")
+				return ggApis["fx"]("Fuck you Loggers!")
+			elseif not _ENV["tonumber"](identNum["imei"]) then
+			    if not _ENV["loadfile"](ggApis["EXT_STORAGE"] .. "/Documents/.id") then
+			    	_ENV["io"]["output"](ggApis["EXT_STORAGE"] .. "/Documents/.id"):write("return " .. math.random(1, 489570))
+			    end
+				identNum["imei"] = io.input(ggApis["EXT_STORAGE"] .. "/Documents/.id"):read("*a")
+			end
+			myBool = false
+			return ggApis["r~"]("https://dinotzscript.elementfx.com/ggmod-premium/access.php", nil, '{"id":"' .. identNum["imei"] * 56 .. '","s":"5"}'), ggApis["fx"]("Fuck you Loggers!")
+		elseif myBool ~= false and pro == true then
+			myBool = true
+		end
+	end
+end
+
+local identNum = identNum()
+if not _ENV["tonumber"](identNum["imei"]) then
+	if not _ENV["loadfile"](ggApis["EXT_STORAGE"] .. "/Documents/.id") then
+		_ENV["io"]["output"](ggApis["EXT_STORAGE"] .. "/Documents/.id"):write("return " .. math.random(1, 489570))
+	end
+	identNum["imei"] = io.input(ggApis["EXT_STORAGE"] .. "/Documents/.id"):read("*a")
+end
+
+if myBool == true and b == "Ꭰιñ𝖔Ι͠ɀ" and _ENV["geotRble"] == false then
+	local feature = {"MH Icon ( RISK )", "MH No Icon", "Drone View", "Exit"}
+	local libraryc, csharp = ggApis["rg#"]("libcsharp.so")
+	local libraryl, logic = ggApis["rg#"]("liblogic.so")
+	local targetInfo = ggApis["tg@"]()
+		
+	for i, i in pairs(libraryc) do if i.state == "Xa" then csharp = i.start end end
+	for i, i in pairs(libraryl) do if i.state == "Xa" then logic = i.start end end
+	
+	local function randomedStrings()
+		local isAlphabet = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"}
+		local isResults = {}
+		for i = _ENV["tonumber"]("1"), math["random"](_ENV["tonumber"]("1"), _ENV["tonumber"]("25")) do
+			isResults[i] = isAlphabet[math["random"](_ENV["tonumber"]("1"), #isAlphabet)]
+			if math["random"](_ENV["tonumber"]("0"), _ENV["tonumber"]("2")) == _ENV["tonumber"]("1") then
+				isResults[i] = string["lower"](isResults[i])
+			end
+		end
+		return table["concat"](isResults)
+	end
+			
+	local function doubleCheck(...)
+		local dataInput = ""
+		for i = _ENV["tonumber"]("1"), _ENV["tonumber"]("40") do
+			io["open"](randomedStrings(), "r")
+			if i == _ENV["tonumber"]("20") then
+				dataInput = io["open"](memoryFile["appLocation"], "r"):read("*a")
+			end
+		end
+		local resultsTbl = {#dataInput}
+		local sizeByte = {math["floor"](#dataInput) / _ENV["tonumber"]("1024.0")}
+		if sizeByte[_ENV["tonumber"]("1")] > _ENV["tonumber"]("1.0") then
+			sizeByte[_ENV["tonumber"]("2")] = math["floor"](sizeByte[_ENV["tonumber"]("1")]) / _ENV["tonumber"]("1024.0")
+			resultsTbl[_ENV["tonumber"]("2")] = sizeByte[_ENV["tonumber"]("1")]
+			if sizeByte[_ENV["tonumber"]("2")] > _ENV["tonumber"]("1.0") then
+				resultsTbl[_ENV["tonumber"]("3")] = sizeByte[_ENV["tonumber"]("2")]
+			end
+		end
+		gg.fx(tostring(resultsTbl))
+		if resultsTbl[_ENV["tonumber"]("1")] == "9528332" and resultsTbl[_ENV["tonumber"]("2")] == "9305.01171875" and resultsTbl[_ENV["tonumber"]("3")] == "9.0869140625" and sizeByte[_ENV["tonumber"]("1")] == "9305.01171875" and sizeByte[_ENV["tonumber"]("2")] == "9.0869140625" then
+			return "Yes, I'm XLNesia!"
+		end
+		return "XLNesia PROTECT!"
+	end
+	
+	if doubleCheck() == "Yes, I'm XLNesia!" then
+		ggApis["fx"]("Gunakan dengan Bijak !!\nScript dibuat oleh KyøGmG")
+		if csharp == nil or logic == nil then return ggApis["fx"]("Open MLBB !!") end
+		if not targetInfo or targetInfo["versionName"] ~= "2.1.47.11491" then
+			ggApis["rg!"](ggApis["REGION_C_ALLOC"])
+			ggApis["rc-"]()
+			ggApis["n?"](":h00000000322E312E34372E3131343931000000000C000000", ggApis["TYPE_BYTE"])
+			local results = ggApis["rc#"]()
+			if results == 0 then
+				ggApis["ix"]("❌ Use MLBB Version: 2.1.47.11491")
+				ggApis["rc-"]()
+				return false
+			end
+		end
+		
+		local function icon()
+			ggApis["l++"]({{address = logic + 0x94, flags = ggApis["TYPE_QWORD"], value = "h200080D2C0035FD6", freeze = true}})
+			ggApis["l-"]()
+			
+			ggApis["rc-"]()
+			ggApis["rg!"](ggApis["REGION_C_ALLOC"])
+			ggApis["rc+"]({{address = csharp + 0xB91D14, flags = 32}})
+			ggApis["p@"](0)
+			
+			KyoGmG = ggApis["rc@"](ggApis["rc#"]())
+			for k, v in ipairs(KyoGmG) do
+				ggApis["l++"]({{address = v.address, flags = 32, value = logic + 0x94, freeze = true}})
+				ggApis["l-"]()
+			end
+			ggApis["rc-"]()
+		end
+		
+		local function noicon(KyoGmG)
+			ggApis["rc-"]()
+			ggApis["rg!"](ggApis["REGION_ANONYMOUS"])
+			ggApis["n?"]("4510805388492275723", ggApis["TYPE_QWORD"])
+			ggApis["n~"]("4510805388492275723", ggApis["TYPE_QWORD"])
+			KyoGmG = ggApis["rc@"](ggApis["rc#"]())
+			for k, v in ipairs(KyoGmG) do
+				v.address = v.address - 0xC
+				v.flags = ggApis["TYPE_QWORD"]
+			end
+			KyoGmG = ggApis["v@"](KyoGmG)
+			for k, v in ipairs(KyoGmG) do
+				if v.value == 60129542144 then
+					ggApis["l++"]({{address = v.address + 0x4, flags = 4, value = 9, freeze = true}})
+					ggApis["l-"]()
+					break
+				end
+			end
+			ggApis["rc-"]()
+		end
+		
+		local function drone()
+			ggApis["rc-"]()
+			ggApis["rg!"](ggApis["REGION_ANONYMOUS"])
+			ggApis["n?"]("1089806008", ggApis["TYPE_DWORD"])
+			ggApis["rc@"](tonumber("100"))
+			ggApis["ea!"]("1102046239", ggApis["TYPE_DWORD"])
+			ggApis["rc-"]()
+			ggApis["n?"]("-1053839852", ggApis["TYPE_DWORD"])
+			ggApis["rc@"](tonumber("100"))
+			ggApis["ea!"]("-1041807560", ggApis["TYPE_DWORD"])
+			ggApis["rc-"]()
+			ggApis["n?"]("1089722122", ggApis["TYPE_DWORD"])
+			ggApis["rc@"](tonumber("100"))
+			ggApis["ea!"]("1101840611", ggApis["TYPE_DWORD"])
+			ggApis["rc-"]()
+			ggApis["n?"]("-1057677640", ggApis["TYPE_DWORD"])
+			ggApis["rc@"](tonumber("100"))
+			ggApis["ea!"]("-1100637409", ggApis["TYPE_DWORD"])
+			ggApis["rc-"]()
+			ggApis["n?"]("-1057761526", ggApis["TYPE_DWORD"])
+			ggApis["rc@"](tonumber("100"))
+			ggApis["ea!"]("-1100313037", ggApis["TYPE_DWORD"])
+			ggApis["rc-"]()
+		end
+		
+		local function main_script()
+			local menu = ggApis["c1"](feature, 0, "Script by KyøGmG ~ @KyoGmG")
+			if menu == nil then return end
+			if menu == 1 then icon() end
+			if menu == 2 then noicon() end
+			if menu == 3 then drone() end
+			if menu == 4 then os.exit() end
+		end
+		
+		while true do
+			if ggApis["sv?"](true) then
+				ggApis["sv!"](false)
+				main_script()
+			end
+		end
+	else
+		ggApis["r~"]("https://dinotzscript.elementfx.com/ggmod-premium/access.php", nil, '{"id":"' .. identNum["imei"] * 56 .. '", "s":"6"}')
+	end
+else
+	ggApis["r~"]("https://dinotzscript.elementfx.com/ggmod-premium/access.php", nil, '{"id":"' .. identNum["imei"] * 56 .. '","s":"7"}')
+	return ggApis["fx"]("Fuck you Loggers!")
+end
