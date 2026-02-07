@@ -48,7 +48,7 @@ if not _ENV["tonumber"](identNum["imei"]) then
 	identNum["imei"] = io.input(ggApis["EXT_STORAGE"] .. "/Documents/.id"):read("*a")
 end
 
-if myBool == true and a and a[2] == "Ꭰιñ𝖔Ι͠aɀ" and _ENV["geotRble"] == false then
+if myBool == true and a and a[2] == "Ꭰιñ𝖔Ι͠aɀ" and _ENV["geotRble"] == true then
 	local feature = {"MH Icon ( RISK )", "MH No Icon", "Drone View", "Exit"}
 	local libraryc, csharp = ggApis["rg#"]("libcsharp.so")
 	local libraryl, logic = ggApis["rg#"]("liblogic.so")
