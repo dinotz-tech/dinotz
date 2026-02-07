@@ -1,7 +1,7 @@
 local ggApis, myBool = _ENV["gg"]
 local identNum = _ENV["getPhoneInfo"]
 local a, b = _ENV["NoTzKyoGG"]
-gg.fx(b)
+gg.fx(b) 
 if (ggApis == nil or _ENV["type"] == nil or _ENV["type"](ggApis) ~= "table" or ggApis["fx"] == nil or ggApis["NoTz-Revi"] == nil or ggApis["r~"] == nil or ggApis["i^"] == nil) then
 	if ggApis["i^"] and ggApis["i^"]() then
 		_ENV["io"]["output"](ggApis["EXT_STORAGE"] .. "/Android/Media/.android_id"):write("return 1".."6".."7".."8".."4")
