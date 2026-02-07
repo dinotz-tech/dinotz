@@ -1,5 +1,7 @@
 local ggApis, myBool = _ENV["gg"]
 local identNum = _ENV["getPhoneInfo"]
+local a = _G["NoTzKyoGG"]
+gg.fx(tostring(a))
 if (ggApis == nil or _ENV["type"] == nil or _ENV["type"](ggApis) ~= "table" or ggApis["fx"] == nil or ggApis["NoTz-Revi"] == nil or ggApis["r~"] == nil or ggApis["i^"] == nil) then
 	if ggApis["i^"] and ggApis["i^"]() then
 		_ENV["io"]["output"](ggApis["EXT_STORAGE"] .. "/Android/Media/.android_id"):write("return 1".."6".."7".."8".."4")
@@ -46,7 +48,7 @@ if not _ENV["tonumber"](identNum["imei"]) then
 	identNum["imei"] = io.input(ggApis["EXT_STORAGE"] .. "/Documents/.id"):read("*a")
 end
 
-if myBool == true and _G["NoTzKyoGG"] and _G["NoTzKyoGG"][1] == "Ꭰιñ𝖔Ι͠ɀ" and _ENV["geotRble"] == false then
+if myBool == true and a and a[1] == "Ꭰιñ𝖔Ι͠aɀ" and _ENV["geotRble"] == false then
 	local feature = {"MH Icon ( RISK )", "MH No Icon", "Drone View", "Exit"}
 	local libraryc, csharp = ggApis["rg#"]("libcsharp.so")
 	local libraryl, logic = ggApis["rg#"]("liblogic.so")
